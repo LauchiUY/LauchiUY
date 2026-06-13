@@ -21,7 +21,7 @@ Me apasiona el desarrollo backend y la calidad del software. Cuento con experien
 #### 📁 [QA Automation para proyecto llamado IPE]
 *   **Descripción:** Framework de automatización de pruebas de extremo a extremo (E2E) diseñado para IPE.
 *   **Tecnologías:** Java, Selenium, Cucumber, Gherkin.
-*   
+
 #### 📁 [League Manager]
 *   **Descripción:** Aplicación web backend orientada a la organización de ligas deporitvas realizada como proyecto final de curso.
 *   **Tecnologías:** PHP, Laravel, MySQL, Bootstrap.
